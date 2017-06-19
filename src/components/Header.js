@@ -32,7 +32,7 @@ class Header extends React.Component {
       <div id="header" className="clearfix">
         <div className="container">
           <ul className="menu">
-            <li>Menu Goes</li>
+            <li>No</li>
             <li>Here Or There</li>
           </ul>
         </div>
